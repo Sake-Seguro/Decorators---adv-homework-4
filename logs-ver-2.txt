@@ -1,0 +1,8 @@
+
+The function <function main at 0x7f1e385589d0> was called up at 2020-06-08 22:58:56.936776.
+
+The arguments () were applied within this function <function main at 0x7f1e385589d0>.
+
+The result of this operation is None.
+
+The function <function main at 0x7f1e385589d0> ended its operation at 2020-06-08 22:59:03.230340.

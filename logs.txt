@@ -1,0 +1,8 @@
+
+The function <function polish_notation at 0x7f1e3855d040> was initiated at  - 2020-06-08 22:59:03.229859.
+
+The following arguments ('+', 7, 7) were transmitted into this function -- <function polish_notation at 0x7f1e3855d040>.
+
+The function ended with the following result - 14.
+
+The time of the function <function polish_notation at 0x7f1e3855d040> ending - 2020-06-08 22:59:03.229981.
